@@ -4,7 +4,6 @@ This project analyzes a dataset of mobile phones listed on Flipkart, one of Indi
 
 ## 📊 Dataset Overview
 
-- **Source:** Web-scraped from Flipkart
 - **Rows:** 3114
 - **Columns:** 8
 - **Attributes:**
@@ -40,5 +39,8 @@ This project analyzes a dataset of mobile phones listed on Flipkart, one of Indi
 - Price vs rating correlation
 - Percentage of products sold at a discount
 
-## 📂 Folder Structure
+## Conclusions 
+- The availability of Low Range Phones Should be Increased as most buyers buy phones in 15000 range
+- Vivo is providing more rated products and are value for money.
+- It is not true that only higher selling price products have a higher rating maximum mobiles lying between 0 to 25000 also have a good rating
 
